@@ -27,3 +27,6 @@ console.log("Hi the world has nice weather today")
 |    H   |    2 O    |   water   |
 |   VS   |    code   |  VS code  |
 |  Cool  |    Ice    | Ice Cream |
+
+
+New Branch, trying to merge
